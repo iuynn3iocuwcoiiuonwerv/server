@@ -15,4 +15,4 @@ original repo link without html - https://github.com/lax1dude/eaglercraft
 |||NOW UPDATED TO 1.8!!!!!
 
 
-ps: thanks to all of you for forking my repo, it makes me happy and proud. ive never had these many people look at my repos :)
+p̶s̶:̶ t̶h̶a̶n̶k̶s̶ t̶o̶ a̶l̶l̶ o̶f̶ y̶o̶u̶ f̶o̶r̶ f̶o̶r̶k̶i̶n̶g̶ m̶y̶ r̶e̶p̶o̶, i̶t̶ m̶a̶k̶e̶s̶ m̶e̶ h̶a̶p̶p̶y̶ a̶n̶d̶ p̶r̶o̶u̶d̶. i̶v̶e̶ n̶e̶v̶e̶r̶ h̶a̶d̶ t̶h̶e̶s̶e̶ m̶a̶n̶y̶ p̶e̶o̶p̶l̶e̶ l̶o̶o̶k̶ a̶t̶ m̶y̶ r̶e̶p̶o̶s̶ :̶)̶  ITS FORKED
